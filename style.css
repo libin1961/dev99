@@ -1,0 +1,29 @@
+
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747784;
+	font-weight: 300;
+	padding-top: 0px;
+	overflow-x: hidden;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.header-logo {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.header-title {
+	font-size: 60px;
+}
+.row {
+	margin-right: 0px;
+    margin-left: 0px;	
+}
